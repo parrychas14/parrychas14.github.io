@@ -195,6 +195,17 @@ nav {
     opacity: 1;
     transform: scale(1.1);
 }
+.locations {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    margin-top: 20px;
+    border: 5px solid black;
+    background-color:#EB5E55;
+}
+#page2 {
+    text-align:center;
+    color:#EB5E55
+}
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
