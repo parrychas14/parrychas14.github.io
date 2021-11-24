@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: black;
+    margin:200px;
+    align-items:center;
+    justify-items:center;
+}
+section {
+    background-color:burlywood;
+    max-width: 509px;
+    min-width: 509px;
+    text-align:center;
+    display: grid;
+    grid-template-rows: 1fr 130px;
+    justify-items: center;
+}
+p {
+    padding-bottom: 20px;
+}
