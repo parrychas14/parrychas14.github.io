@@ -80,6 +80,7 @@ footer h3 a:hover {
 .button-box {
     text-align: center;
     font-family:"Open Sans";
+    padding-top: 20px;
 }
 .cool, .snatch, .presence, .bg, .et {
     background-color:blue;
@@ -94,4 +95,14 @@ footer h3 a:hover {
 .cool:hover, .snatch:hover, .presence:hover, .bg:hover, .et:hover {
     background-color:red;
     color: black;
+}
+.burgle {
+    font-family: sans-serif;
+    background-color:blue;
+    border: 5px solid red;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+.b-shop {
+    padding-top: 20px;
 }
