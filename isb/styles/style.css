@@ -106,3 +106,17 @@ footer h3 a:hover {
 .b-shop {
     padding-top: 20px;
 }
+.e-shop {
+    align-items: center;
+    text-align: center;
+    padding-top: 20px;
+}
+.Entities {
+    margin-right: 200px;
+    margin-left: 200px;
+    Background-color: blue;
+    border: 5px solid red;
+}
+#r {
+    text-align: center;
+}
